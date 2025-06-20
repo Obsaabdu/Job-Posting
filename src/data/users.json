@@ -1,0 +1,9 @@
+{
+  "84af19f6-9e4d-487c-abeb-7041fcecd5df": {
+    "id": "84af19f6-9e4d-487c-abeb-7041fcecd5df",
+    "name": "Dude",
+    "email": "dude@example.com",
+    "password": "$2b$10$RlC5b4r3PZuA4puuX7IoKub4P4I0CHIKZ3SSgObMCKws4wkfhKpl2",
+    "role": "applicant"
+  }
+}
